@@ -2,7 +2,7 @@
 前端不定期汇总
 
 ## 目录
-
+- [技术组织](#blogs)
 
 
 
@@ -15,7 +15,7 @@
  **若转载本文请注明来源**
  - [技术组织](#resource)
  
-<h3 id="resource">技术组织</h3>
+<h3 id="blogs">技术组织</h3>
  - [美团技术团队] (https://tech.meituan.com/)  - 据说技术口碑不错
  - [奇舞团博客](http://www.75team.com/) - 360 前端
 - [大搜车前端](http://f2e.souche.com/blog/) - 前端网红 [小芋头君](
