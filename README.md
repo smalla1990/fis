@@ -7,12 +7,6 @@
 
 
 
-#### 您可以通过以下方式联系到我
- - 邮箱 dqnmwf@gmail.com
- - 知乎 https://www.zhihu.com/people/dqnmwf/activities
- - 博客 https://www.jianshu.com/u/f06b1b8f3eda
-
- **若转载本文请注明来源**
 
  
 <h3 id="blogs">技术组织</h3>
@@ -25,3 +19,10 @@
 - [淘宝 FED](http://taobaofed.org/) - 淘宝前端团队
 - [阮一峰](http://javascript.ruanyifeng.com/) - 博客内容确简洁明了
 
+
+#### 您可以通过以下方式联系到我
+ - 邮箱 dqnmwf@gmail.com
+ - 知乎 https://www.zhihu.com/people/dqnmwf/activities
+ - 博客 https://www.jianshu.com/u/f06b1b8f3eda
+
+ **若转载本文请注明来源**
