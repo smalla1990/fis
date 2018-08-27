@@ -5,6 +5,7 @@
 - [技术组织](#blogs)
 - [工具/软件](#tools)
 - [设计/交互](#ux)
+- [技术问答](#question)
 - [其他技术](#other)
 
 
@@ -31,6 +32,10 @@
 - [faviconer.co](http://www.faviconer.co/) - icon生成器
 - [markdown](https://www.appinn.com/markdown/) - 标记语言
 
+<h3 id="question">技术问答</h3>
+
+[stackoverflow](https://stackoverflow.com/) | 技术问答
+[segmentfault](https://segmentfault.com/) | 国内技术问答
 
 <h3 id="other">其他技术</h3>
 
