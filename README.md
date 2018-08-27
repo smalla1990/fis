@@ -34,8 +34,8 @@
 
 <h3 id="question">技术问答</h3>
 
-[stackoverflow](https://stackoverflow.com/)  - 技术问答
-[segmentfault](https://segmentfault.com/)  - 国内技术问答
+- [stackoverflow](https://stackoverflow.com/)  - 技术问答
+- [segmentfault](https://segmentfault.com/)  - 国内技术问答
 
 <h3 id="other">其他技术</h3>
 
