@@ -20,6 +20,7 @@
 - [阮一峰](http://javascript.ruanyifeng.com/) - 博客内容确简洁明了
 - [极客时间](https://time.geekbang.org/) - 知识付费。
 - [MDN](https://developer.mozilla.org/zh-CN/) -  资源丰富，还没来得及看
+- [印象中文](https://www.docschina.org/) -  最权威的技术中文文档社区
 
 <h3 id="ux">设计/交互</h3>
 
